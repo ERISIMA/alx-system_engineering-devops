@@ -1,1 +1,2 @@
- Betty in my first directory
+#!/bin/bash
+pwd
